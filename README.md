@@ -12,6 +12,13 @@
 ![Segmentation](https://img.shields.io/badge/Segmentation-111823?style=flat-square)
 ![Optical Flow](https://img.shields.io/badge/Optical_Flow-111823?style=flat-square)
 
+### Signal Processing & Hardware
+![FFT/STFT](https://img.shields.io/badge/FFT-STFT-111823?style=flat-square)
+![Interferometry](https://img.shields.io/badge/Laser_Interferometry-111823?style=flat-square)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
+![Embedded](https://img.shields.io/badge/Microcontrollers-Embedded-314CB0?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
 ### Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -42,21 +49,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### Signal Processing & Hardware
-![FFT/STFT](https://img.shields.io/badge/FFT-STFT-111823?style=flat-square)
-![Interferometry](https://img.shields.io/badge/Laser_Interferometry-111823?style=flat-square)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![Embedded](https://img.shields.io/badge/Microcontrollers-Embedded-314CB0?style=flat-square)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
 ---
 
 ### Certifications
 - **NVIDIA Deep Learning Institute** — Building AI Agents with Multimodal Models
 - **NVIDIA Deep Learning Institute** — Building RAG Agents with LLMs
-
-### Currently exploring
-`Vision-Language Models for inspection` · `RAG over technical documentation` · `INT8 pipelines for multi-stream edge inference`
 
 ---
 
