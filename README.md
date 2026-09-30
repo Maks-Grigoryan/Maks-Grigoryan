@@ -2,16 +2,8 @@
 <p align="center"><code>Machine Learning / Computer Vision Engineer — Deep Learning · Edge AI · Signal Processing</code></p>
 
 <p align="center">
-  <a href="https://maks-grigoryan.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-maks--grigoryan.github.io-38BDF8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://maks-grigoryan.github.io/projects/"><img src="https://img.shields.io/badge/Projects-case_studies-111823?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
 </p>
-
-### Selected Work
-| Project | What it is |
-|---|---|
-| **[trash-detection](https://github.com/Maks-Grigoryan/trash-detection)** | Multi-camera waste monitoring platform: custom YOLOv8 (mAP50 0.71) + overflow forecasting + live operator dashboard. Architecture, model and results. |
-
----
 
 ### Computer Vision
 ![YOLO](https://img.shields.io/badge/YOLO-Object_Detection-111823?style=flat-square)
