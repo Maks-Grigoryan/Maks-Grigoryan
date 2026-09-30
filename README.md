@@ -51,6 +51,13 @@
 
 ---
 
+### Selected Work
+| Project | What it is |
+|---|---|
+| **[trash-detection](https://github.com/Maks-Grigoryan/trash-detection)** | Multi-camera waste monitoring platform: custom YOLOv8 (mAP50 0.71) + overflow forecasting + live operator dashboard. Architecture, model and results. |
+
+---
+
 ### Certifications
 - **NVIDIA Deep Learning Institute** — Building AI Agents with Multimodal Models
 - **NVIDIA Deep Learning Institute** — Building RAG Agents with LLMs
